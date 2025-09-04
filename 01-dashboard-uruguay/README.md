@@ -17,9 +17,9 @@ Base de datos descargada desde el conjunto de datos del Estado Uruguayo. Conten�
 - Promedio de gasto por visita: U$D 1445 
 
 **Capturas.**  
-![Dashboard - Overview](images/captura1.png)  
-![Dashboard - Ventas por Región](images/captura2.png)  
-![Dashboard - Productos](images/captura3.png)  
+![Dashboard - Portada](images/Portada.png)  
+![Dashboard - Época Turística](images/Epóca.png)  
+![Dashboard - Ingresos y ventas](images/Ingresos.png)  
 
 **Archivos.**  
 - `dashboard.pbix` (archivo de Power BI)  
@@ -27,3 +27,4 @@ Base de datos descargada desde el conjunto de datos del Estado Uruguayo. Conten�
 
 **Autor.**  
 Enzo Thome — Data Analyst Jr.
+
