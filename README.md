@@ -8,7 +8,7 @@ I'm based in Uruguay and open to **remote opportunities**.
 
 ## 📊 Projects
 
-1. [Tourism in Uruguay Dashboard – Coderhouse (2023)](01-coderhouse-dashboard/)  
+1. [Tourism in Uruguay Dashboard – Coderhouse (2023)](01--dashboard-uruguay/)  
    *Power BI interactive dashboard analyzing Tourism performance in Uruguay. Includes .pbix, report PDF, and screenshots.*
 
 (More projects coming soon...)
