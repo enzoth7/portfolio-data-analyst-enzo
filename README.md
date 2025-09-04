@@ -18,7 +18,7 @@ I'm based in Uruguay and open to **remote opportunities**.
 ## 🛠️ Tools & Skills
 - Data Visualization: Power BI, Tableau, Excel  
 - Databases: SQL (BigQuery, MySQL)  
-- Programming: Python (Pandas, NumPy, Web Scraping), R,
+- Programming: Python (Pandas, NumPy, Web Scraping), R
 - Languages: English B2/C1, French A1, Spanish native  
 
 ---
